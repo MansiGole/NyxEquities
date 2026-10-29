@@ -9,9 +9,18 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@designcodeio/threeui": "^1.2.0",
+    "@tanstack/react-query": "^5.105.0",
+    "axios": "^1.21.0",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.64.0",
     "next": "16.4.3",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "sonner": "^2.0.8",
+    "tailwind-merge": "^3.7.0",
+    "viem": "^2.57.13",
+    "wagmi": "^3.7.9"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
